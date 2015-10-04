@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kendrageromi/Documents/SD2650/Module 3/SampleBackgroundService/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/kendrageromi/Documents/SD2650/Module 3/SampleBackgroundService/app/build/intermediates/pre-dexed/debug/classes-fd824fe1d26de19fa63b5866aeb40a75927c738e.jar" />
+    </item>
+    <item
+        jar="/Users/kendrageromi/Documents/adt-bundle-mac-x86_64-20140702 3/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/kendrageromi/Documents/SD2650/Module 3/SampleBackgroundService/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-2ca4ea8d6e074e61980b3ec7beca110eb3a5ff35.jar" />
+    </item>
+    <item
+        jar="/Users/kendrageromi/Documents/SD2650/Module 3/SampleBackgroundService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/kendrageromi/Documents/SD2650/Module 3/SampleBackgroundService/app/build/intermediates/pre-dexed/debug/classes-a10f9e933573f445855ca430abb386d31c2a0d8c.jar" />
+    </item>
+    <item
+        jar="/Users/kendrageromi/Documents/SD2650/Module 3/SampleBackgroundService/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/kendrageromi/Documents/SD2650/Module 3/SampleBackgroundService/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-6d9de5c2b512829a0f4f0e2d84a78837a86557f9.jar" />
+    </item>
+
+</items>
